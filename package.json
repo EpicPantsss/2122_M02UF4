@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EpicPantsss/2122_M02UF4#readme",
   "dependencies": {
-    "mogodb": "^0.0.1-security"
+    "mogodb": "^0.0.1-security",
+    "mongodb": "^4.4.0"
   }
 }
